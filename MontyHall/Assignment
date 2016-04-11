@@ -1,0 +1,22 @@
+Monty-Hall
+
+Game Rules:
+    There are 3 doors
+        1 door has a prize
+        2 doors have a goat
+    Player selects 1 door
+    Game reveals 1 door does not have what they need
+    Player chooses to do:
+        Swap Doors
+        Stay
+    Player wins/loses on reveal
+
+Simulation:
+    How many times to run the sim?
+    Input a door selection
+        Remove door from data structure
+    rand choose to swap door or keep
+    track win lose ratios
+
+Test Driven:
+    Advanced
